@@ -1,5 +1,4 @@
-# 🎓 Student Management System
-
+# 🎓 EduuFlow
 A fully functional **Student Management System** built using HTML, CSS, and JavaScript. This project allows users (school admins or teachers) to efficiently manage student records through a responsive and interactive interface.
 
 🔗 **Live Demo**: [https://eduuflow.vercel.app/](https://eduuflow.vercel.app/)
