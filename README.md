@@ -5,6 +5,8 @@ A fully functional **Student Management System** built using HTML, CSS, and Java
 🔗 **Live Demo**: [https://eduuflow.vercel.app/](https://eduuflow.vercel.app/)
 
 ---
+<img width="1440" alt="Screenshot 2025-06-29 at 10 02 06 PM" src="https://github.com/user-attachments/assets/24cc0db2-9000-441e-9439-0927d9b1ab8e" />
+
 
 ## ✨ Features
 
