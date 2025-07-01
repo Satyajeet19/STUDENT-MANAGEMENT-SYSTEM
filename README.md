@@ -6,9 +6,6 @@ A fully functional **Student Management System** built using HTML, CSS, and Java
 ---
 <img width="1440" alt="Screenshot 2025-06-29 at 10 02 06 PM" src="https://github.com/user-attachments/assets/24cc0db2-9000-441e-9439-0927d9b1ab8e" />
 <img width="1440" alt="Screenshot 2025-06-29 at 10 01 58 PM" src="https://github.com/user-attachments/assets/f2f1608f-4439-4ec5-ac2a-d76aa6a1e6c1" />
-<img width="1440" alt="Screenshot 2025-06-29 at 10 02 01 PM" src="https://github.com/user-attachments/assets/1dd4d3d9-209a-419c-9316-e59a55d92e69" />
-
-
 
 
 
