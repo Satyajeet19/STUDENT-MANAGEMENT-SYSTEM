@@ -12,7 +12,6 @@ A fully functional **Student Management System** built using HTML, CSS, and Java
 
 
 
-
 ## ✨ Features
 
 - ➕ Add new student records  
