@@ -1,3 +1,12 @@
+## How to Contribute
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your fork.
+5. Open a pull request describing your changes.
 # 🎓 EduuFlow
 A fully functional **Student Management System** built using HTML, CSS, and JavaScript. This project allows users (school admins or teachers) to efficiently manage student records through a responsive and interactive interface.
 
